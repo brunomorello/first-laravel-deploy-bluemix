@@ -1,7 +1,0 @@
- applications:
- - name: bmorenos-first-laravel-deploy
-   random-route: true
-   memory: 128M
-   buildpack: https://github.com/cloudfoundry/php-buildpack
-   env:
-       APP_KEY: base64:zso8Q0aE0F3Ikrt7uG5+1XtBYvHbOOAQSgyd5ohZhr8=
